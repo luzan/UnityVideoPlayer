@@ -19,6 +19,7 @@ The VideoPlayer can play movies that were imported with the new VideoClip import
 **Blog URL:** [How to play videos on Unity using new VideoPlayer](http://justcode.me/unity2d/how-to-play-videos-on-unity-using-new-videoplayer/)
 
 **YouTube Video URL Part 1:** [How to play videos in Unity using VideoPlayer and VideoClip API -Part 1](https://www.youtube.com/watch?v=nGA3jMBDjHk)
+
 **YouTube Video URL Part 2:** [Thumbnail, Play and Pause - Unity VideoPlayer - Part 2 ](https://www.youtube.com/watch?v=R36UuAjQmK4)
 
 **StackOverflow Discussion:** [Using new Unity VideoPlayer and VideoClip API to play video](http://stackoverflow.com/questions/41144054/using-new-unity-videoplayer-and-videoclip-api-to-play-video/)
