@@ -23,7 +23,7 @@ VideoClipImporter:
   flipHorizontal: 0
   importAudio: 1
   sourceAudioChannelCount: 0200
-  sourceAudioSampleRate: 44ac0000
+  sourceAudioSampleRate: 22560000
   targetSettings: {}
   output:
     format: 1
@@ -41,7 +41,7 @@ VideoClipImporter:
     encodedStartFrame: 0
     encodedEndFrame: 1440
     streamedResource:
-      source: Assets/big_buck_bunny.mp4
+      source: 
       offset: 0
       size: 5510872
   userData: 
