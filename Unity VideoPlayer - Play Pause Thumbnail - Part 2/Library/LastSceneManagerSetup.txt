@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/vp.unity
+  isLoaded: 1
+  isActive: 1
