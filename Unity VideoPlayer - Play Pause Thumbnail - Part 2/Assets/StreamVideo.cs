@@ -64,13 +64,8 @@ public class StreamVideo : MonoBehaviour {
         videoPlayer.Prepare();
 
         //Wait until video is prepared
-        WaitForSeconds waitTime = new WaitForSeconds(1);
         while (!videoPlayer.isPrepared) {
-            Debug.Log("Preparing Video");
-            //Prepare/Wait for 5 sceonds only
-            yield return waitTime;
-            //Break out of the while loop after 5 seconds wait
-            break;
+            yield return null;
         }
 
         Debug.Log("Done Preparing Video");
